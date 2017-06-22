@@ -11,13 +11,13 @@
   * Thông số kỹ thuật
   * Phụ kiện đi kèm
   * Bảo hành
-   * Time
-   * Website
-   * Email
-   * Hotline
-   * Address
+   ** Time
+   ** Website
+   ** Email
+   ** Hotline
+   ** Address
   * Giao hàng
   * Đổi trả
-   * Time
-   * Fee
-   * Policy
+   ** Time
+   ** Fee
+   ** Policy
